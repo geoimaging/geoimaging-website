@@ -7,8 +7,8 @@
    viewBox="0 0 79.375 79.375003"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="postdoc.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="bsc.svg"
    inkscape:export-filename="\\wsl.localhost\Ubuntu\home\jpvantassel\current_projects_git\geoimaging-website\images\fw15.png"
    inkscape:export-xdpi="400"
    inkscape:export-ydpi="400"
@@ -28,14 +28,16 @@
      showgrid="false"
      units="in"
      inkscape:zoom="1.7559818"
-     inkscape:cx="173.97675"
-     inkscape:cy="129.55715"
+     inkscape:cx="141.51627"
+     inkscape:cy="124.43181"
      inkscape:window-width="1920"
      inkscape:window-height="1171"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <clipPath
@@ -303,14 +305,25 @@
        ry="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;line-height:1;font-family:serif;-inkscape-font-specification:'serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="39.656494"
-       y="46.55014"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="22.06064"
+       y="46.689667"
        id="text1963"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;font-family:serif;-inkscape-font-specification:'serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="39.656494"
-         y="46.55014"
-         id="tspan1100">Postdoc</tspan></text>
+         id="tspan1961"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;font-family:serif;-inkscape-font-specification:'serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="22.06064"
+         y="46.689667">BSc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="23.335344"
+       y="56.781796"
+       id="text1963-4"><tspan
+         sodipodi:role="line"
+         id="tspan1961-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:serif;-inkscape-font-specification:'serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="23.335344"
+         y="56.781796">Click Here</tspan></text>
   </g>
 </svg>
