@@ -181,8 +181,8 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		/* font-family: "serif", "Source Sans Pro", Helvetica, sans-serif; */
-		font-family: 'Times New Roman', Times, serif;
+		font-family: "serif", "Source Sans Pro", Helvetica, sans-serif;
+		/* font-family: 'Times New Roman', Times, serif; */
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
@@ -2079,8 +2079,8 @@ input, select, textarea {
 		border-radius: 0;
 		cursor: pointer;
 		display: inline-block;
-		/* font-family: "Source Sans Pro", Helvetica, sans-serif; */
-		font-family: 'Times New Roman', Times, serif;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		/* font-family: 'Times New Roman', Times, serif; */
 		font-size: 0.8rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -2915,7 +2915,7 @@ input, select, textarea {
 
 		header > .date {
 			display: block;
-			font-size: 0.8rem;
+			font-size: 1rem;
 			height: 1;
 			margin: 0 0 1rem 0;
 			position: relative;
@@ -3025,8 +3025,8 @@ input, select, textarea {
 		}
 
 		table th {
-			/* font-family: "Source Sans Pro", Helvetica, sans-serif; */
-			font-family: 'Times New Roman', Times, serif;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			/* font-family: 'Times New Roman', Times, serif; */
 			font-size: 0.8rem;
 			font-weight: 900;
 			letter-spacing: 0.075em;
@@ -3571,8 +3571,8 @@ input, select, textarea {
 			border-style: solid;
 			border-color: #ffffff;
 			border-width: 5px !important;
-			/* font-family: "Source Sans Pro", Helvetica, sans-serif; */
-			font-family: 'Times New Roman', Times, serif;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			/* font-family: 'Times New Roman', Times, serif; */
 			font-size: 2.25rem;
 			font-weight: 900;
 			letter-spacing: 0.075em;
@@ -3697,8 +3697,8 @@ input, select, textarea {
 			-webkit-flex-shrink: 1;
 			-ms-flex-shrink: 1;
 			flex-shrink: 1;
-			/* font-family: "Source Sans Pro", Helvetica, sans-serif; */
-			font-family: 'Times New Roman', Times, serif;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			/* font-family: 'Times New Roman', Times, serif; */
 			font-weight: 900;
 			letter-spacing: 0.075em;
 			list-style: none;
@@ -4391,8 +4391,8 @@ input, select, textarea {
 		/* background-color: #1e252d69; */
 		/* color: rgba(255, 255, 255, 0.25); */
 		cursor: default;
-		/* font-family: "Source Sans Pro", Helvetica, sans-serif; */
-		font-family: 'Times New Roman', Times, serif;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		/* font-family: 'Times New Roman', Times, serif; */
 		font-size: 0.8rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -4502,8 +4502,8 @@ input, select, textarea {
 		right: 0.75rem;
 		border: 0;
 		color: #ffffff;
-		/* font-family: "Source Sans Pro", Helvetica, sans-serif; */
-		font-family: 'Times New Roman', Times, serif;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		/* font-family: 'Times New Roman', Times, serif; */
 		font-size: 0.9rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -4595,8 +4595,8 @@ input, select, textarea {
 				#navPanel .links li a {
 					border-bottom: 0;
 					display: block;
-					/* font-family: "Source Sans Pro", Helvetica, sans-serif; */
-					font-family: 'Times New Roman', Times, serif;
+					font-family: "Source Sans Pro", Helvetica, sans-serif;
+					/* font-family: 'Times New Roman', Times, serif; */
 					font-size: 0.9rem;
 					font-size: 0.9rem;
 					font-weight: 900;
