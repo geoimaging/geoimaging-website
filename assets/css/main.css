@@ -25,6 +25,12 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+.responsive-video {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  border: none;
+}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -197,7 +203,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 4rem;
+		font-size: 2.25rem;
 		line-height: 1.1;
 		margin: 0 0 2rem 0;
 	}
